@@ -1,3 +1,3 @@
-document.querySelectorAll('p').forEach(p => {
+document.querySelectorAll("p").forEach(p => {
   p.textContent = "Texto actualizado dinámicamente";
 });
